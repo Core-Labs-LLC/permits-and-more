@@ -164,7 +164,7 @@
         {/if}
       </div>
     </header>
-    <section id="hero-section" class="relative h-[500px] md:h-[600px] lg:h-[800px] slider-container">
+    <section id="home" class="relative h-[500px] md:h-[600px] lg:h-[800px] slider-container">
       <div class="slide active"><img
           src="https://storage.googleapis.com/uxpilot-auth.appspot.com/49b2095347-2bb481764220134c1869.png"
           alt="modern construction site with building permits and blueprints, professional architecture photography, premium quality, wide angle"
